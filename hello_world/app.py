@@ -20,7 +20,7 @@ def lambda_handler(event, context):
 
     Returns
     ------
-    API Gateway Lambda Proxy Output Format: dictdd
+    API Gateway Lambda Proxy Output Format: dict
 
         Return doc: https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html
     """
